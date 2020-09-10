@@ -2,8 +2,18 @@
     border: solid pink 2px;
     background-color: white;
     font-family: 'Dancing Script', cursive;
-    font-size: 100px;
 }
 img {
     border: solid black 2px;
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: pink;
+    color: black;
+    text-align: center;
+    border: solid black 2px;
+    font-family: 'Dancing Script', cursive;
+  }
