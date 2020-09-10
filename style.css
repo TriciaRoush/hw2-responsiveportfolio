@@ -17,3 +17,17 @@ img {
     border: solid black 2px;
     font-family: 'Dancing Script', cursive;
   }
+  h1 {
+    font-family: 'Dancing Script', cursive;
+    color: pink;
+  }
+  .container {
+      background-color: lightgray;
+  }
+  button {
+      padding: 20px;
+      margin: 50px, 50px, 0, 350px;
+      background-color: lightpink;
+  }
+
+
