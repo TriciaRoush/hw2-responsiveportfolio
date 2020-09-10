@@ -1,0 +1,9 @@
+.navbar {
+    border: solid pink 2px;
+    background-color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+}
+img {
+    border: solid black 2px;
+}
